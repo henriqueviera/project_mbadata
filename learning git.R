@@ -7,3 +7,5 @@ library (tidyverse)
 #aprendendo git & git hub 6
 mutate ()
 rename ()
+join ()
+select
